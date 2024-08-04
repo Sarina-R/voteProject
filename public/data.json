@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "James Anderson",
+    "RunnungToBe": "President",
+    "description": "Aliquam utrum nibh rutrum nibh vitae tortor dapibus egestas. Cras condimentum dapibus tellus vel semper. Quisque vel dui molestie est auctor utrum nibh porttitor.",
+    "voted": false,
+    "details": "1 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti ipsum provident dolorum eum aperiam? Numquam iste dolorum aliquid voluptas earum quo natus reiciendis labore totam corrupti quibusdam, molestias sed debitis ratione. Doloremque, blanditiis. Officiis officia quisquam sapiente expedita quas? Impedit, iusto illo quas asperiores nobis tenetur, expedita pariatur optio, veniam veritatis quod! Est tempora voluptate sint architecto, eius provident debitis fuga sed accusamus eveniet distinctio ullam sapiente necessitatibus consequuntur, veritatis voluptatem. Voluptas pariatur repudiandae nihil, eos sapiente modi provident, ex, perferendis quia ad explicabo quibusdam. Similique corporis pariatur adipisci voluptatum cupiditate odio. Magnam mollitia officia officiis eligendi quidem. Debitis, voluptates."
+  },
+  {
+    "id": 2,
+    "RunnungToBe": "President",
+    "name": "Arun Kumar",
+    "description": "Aliquam utrum nibh rutrum nibh vitae tortor dapibus egestas. Cras condimentum dapibus tellus vel semper. Quisque vel dui molestie est auctor utrum nibh porttitor.",
+    "voted": false,
+    "details": "2 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti ipsum provident dolorum eum aperiam? Numquam iste dolorum aliquid voluptas earum quo natus reiciendis labore totam corrupti quibusdam, molestias sed debitis ratione. Doloremque, blanditiis. Officiis officia quisquam sapiente expedita quas? Impedit, iusto illo quas asperiores nobis tenetur, expedita pariatur optio, veniam veritatis quod! Est tempora voluptate sint architecto, eius provident debitis fuga sed accusamus eveniet distinctio ullam sapiente necessitatibus consequuntur, veritatis voluptatem. Voluptas pariatur repudiandae nihil, eos sapiente modi provident, ex, perferendis quia ad explicabo quibusdam. Similique corporis pariatur adipisci voluptatum cupiditate odio. Magnam mollitia officia officiis eligendi quidem. Debitis, voluptates."
+  },
+  {
+    "id": 3,
+    "RunnungToBe": "President",
+    "name": "Pream Nath",
+    "description": "Aliquam utrum nibh rutrum nibh vitae tortor dapibus egestas. Cras condimentum dapibus tellus vel semper. Quisque vel dui molestie est auctor utrum nibh porttitor.",
+    "voted": false,
+    "details": "3 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti ipsum provident dolorum eum aperiam? Numquam iste dolorum aliquid voluptas earum quo natus reiciendis labore totam corrupti quibusdam, molestias sed debitis ratione. Doloremque, blanditiis. Officiis officia quisquam sapiente expedita quas? Impedit, iusto illo quas asperiores nobis tenetur, expedita pariatur optio, veniam veritatis quod! Est tempora voluptate sint architecto, eius provident debitis fuga sed accusamus eveniet distinctio ullam sapiente necessitatibus consequuntur, veritatis voluptatem. Voluptas pariatur repudiandae nihil, eos sapiente modi provident, ex, perferendis quia ad explicabo quibusdam. Similique corporis pariatur adipisci voluptatum cupiditate odio. Magnam mollitia officia officiis eligendi quidem. Debitis, voluptates."
+  },
+  {
+    "id": 4,
+    "RunnungToBe": "President",
+    "name": "Reena Anath",
+    "description": "Aliquam utrum nibh rutrum nibh vitae tortor dapibus egestas. Cras condimentum dapibus tellus vel semper. Quisque vel dui molestie est auctor utrum nibh porttitor.",
+    "voted": false,
+    "details": "4 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti ipsum provident dolorum eum aperiam? Numquam iste dolorum aliquid voluptas earum quo natus reiciendis labore totam corrupti quibusdam, molestias sed debitis ratione. Doloremque, blanditiis. Officiis officia quisquam sapiente expedita quas? Impedit, iusto illo quas asperiores nobis tenetur, expedita pariatur optio, veniam veritatis quod! Est tempora voluptate sint architecto, eius provident debitis fuga sed accusamus eveniet distinctio ullam sapiente necessitatibus consequuntur, veritatis voluptatem. Voluptas pariatur repudiandae nihil, eos sapiente modi provident, ex, perferendis quia ad explicabo quibusdam. Similique corporis pariatur adipisci voluptatum cupiditate odio. Magnam mollitia officia officiis eligendi quidem. Debitis, voluptates."
+  },
+  {
+    "id": 5,
+    "RunnungToBe": "President",
+    "name": "Allen Shory",
+    "description": "Aliquam utrum nibh rutrum nibh vitae tortor dapibus egestas. Cras condimentum dapibus tellus vel semper. Quisque vel dui molestie est auctor utrum nibh porttitor.",
+    "voted": false,
+    "details": "5 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti ipsum provident dolorum eum aperiam? Numquam iste dolorum aliquid voluptas earum quo natus reiciendis labore totam corrupti quibusdam, molestias sed debitis ratione. Doloremque, blanditiis. Officiis officia quisquam sapiente expedita quas? Impedit, iusto illo quas asperiores nobis tenetur, expedita pariatur optio, veniam veritatis quod! Est tempora voluptate sint architecto, eius provident debitis fuga sed accusamus eveniet distinctio ullam sapiente necessitatibus consequuntur, veritatis voluptatem. Voluptas pariatur repudiandae nihil, eos sapiente modi provident, ex, perferendis quia ad explicabo quibusdam. Similique corporis pariatur adipisci voluptatum cupiditate odio. Magnam mollitia officia officiis eligendi quidem. Debitis, voluptates."
+  },
+  {
+    "id": 6,
+    "RunnungToBe": "President",
+    "name": "Vimal kumar",
+    "description": "Aliquam utrum nibh rutrum nibh vitae tortor dapibus egestas. Cras condimentum dapibus tellus vel semper. Quisque vel dui molestie est auctor utrum nibh porttitor.",
+    "voted": false,
+    "details": "6 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti ipsum provident dolorum eum aperiam? Numquam iste dolorum aliquid voluptas earum quo natus reiciendis labore totam corrupti quibusdam, molestias sed debitis ratione. Doloremque, blanditiis. Officiis officia quisquam sapiente expedita quas? Impedit, iusto illo quas asperiores nobis tenetur, expedita pariatur optio, veniam veritatis quod! Est tempora voluptate sint architecto, eius provident debitis fuga sed accusamus eveniet distinctio ullam sapiente necessitatibus consequuntur, veritatis voluptatem. Voluptas pariatur repudiandae nihil, eos sapiente modi provident, ex, perferendis quia ad explicabo quibusdam. Similique corporis pariatur adipisci voluptatum cupiditate odio. Magnam mollitia officia officiis eligendi quidem. Debitis, voluptates."
+  }
+]

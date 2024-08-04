@@ -1,0 +1,22 @@
+.cards {
+  transition: box-shadow 0.3s ease-in-out;
+
+  &:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+  }
+}
+.voted {
+  background-color: rgba(157, 255, 222, 0.625);
+}
+
+.navbarr {
+  position: fixed !important;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  background-color: white;
+  padding: 1.5rem;
+}
+.body {
+  padding-top: 8rem;
+}

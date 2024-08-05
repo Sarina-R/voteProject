@@ -3,6 +3,7 @@ import { Context } from "../App";
 import { Button, Modal, Image } from "react-bootstrap";
 import "./cards.scss";
 import Detailes from "./Detailes";
+import { Link } from "react-router-dom";
 
 const Cards = () => {
   const { data } = useContext(Context);
@@ -46,7 +47,9 @@ const Cards = () => {
               item.voted ? "voted" : "bg-white"
             }`}
           >
-            <Image src={item.img} roundedCircle className="img" />
+            <Link to={`/president/${item.id}`}>
+              <Image src={item.img} roundedCircle className="img" />
+            </Link>
             <h4 className="mt-3 fs-5 mb-1 fw-bold">{item.name}</h4>
             <h6 className="fs-7">
               Running to Be:

@@ -40,7 +40,9 @@ const Root = () => {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<App />} />
+          <Route path="/voteProject/" element={<App />} />
           <Route path="/president/:id" element={<President />} />
+          <Route path="/voteProject/president/:id" element={<President />} />
         </Routes>
       </BrowserRouter>
     </Context.Provider>

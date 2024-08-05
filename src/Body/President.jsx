@@ -9,7 +9,7 @@ const President = () => {
 
   const presidentData = data.find((item) => item.id === parseInt(id));
   return (
-    <Container className="m-5">
+    <Container className="p-5 text-center">
       {presidentData ? (
         <>
           <h1>{presidentData.name}</h1>

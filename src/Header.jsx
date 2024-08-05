@@ -4,7 +4,7 @@ import React from "react";
 const Header = () => {
   return (
     <header className="navbarr text-center">
-      <Row>
+      <Row className="header">
         <Col>
           <h1>Voting Website</h1>
         </Col>

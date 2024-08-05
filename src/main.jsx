@@ -10,7 +10,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 export const Context = React.createContext();
 
-const url = "voteProject/data.json";
+const url = "data.json";
 
 const Root = () => {
   const [data, setData] = useState([]);

@@ -5,7 +5,7 @@ import Cards from "./Body/Cards";
 
 export const Context = React.createContext();
 
-const url = "../../data.json";
+const url = "voteProject/data.json";
 
 function App() {
   const [data, setData] = useState([]);

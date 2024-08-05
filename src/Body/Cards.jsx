@@ -1,6 +1,6 @@
 import React, { useContext, useState } from "react";
 import { Context } from "../App";
-import { Button, Modal } from "react-bootstrap";
+import { Button, Modal, Image } from "react-bootstrap";
 import "./cards.scss";
 import Detailes from "./Detailes";
 
@@ -46,6 +46,7 @@ const Cards = () => {
               item.voted ? "voted" : "bg-white"
             }`}
           >
+            <Image src={item.img} roundedCircle className="img" />
             <h4 className="mt-3 fs-5 mb-1 fw-bold">{item.name}</h4>
             <h6 className="fs-7">
               Running to Be:

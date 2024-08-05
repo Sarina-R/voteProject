@@ -14,6 +14,12 @@ const President = () => {
         <>
           <h1>{presidentData.name}</h1>
           <p>{presidentData.details}</p>
+          {presidentData.videoUrl && (
+            <video width="600" controls>
+              <source src={presidentData.videoUrl} type="video/mp4" />
+              Your browser does not support the video tag.
+            </video>
+          )}
         </>
       ) : (
         <p>Loading...</p>
